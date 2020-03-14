@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "RaspberryPi Hat - Info1"
+Date "2020-03-14"
+Rev "V 1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
