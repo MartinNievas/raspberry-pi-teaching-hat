@@ -17,3 +17,7 @@ Ejecutar:
 gcc ejemplo.c && sudo ./a.out
 ```
 Nota: sudo es necesario para acceder al pinout.
+
+---
+Para más información ir a la [Wiki](https://github.com/MartinNievas/raspberry-pi-teaching-hat/wiki)
+---
