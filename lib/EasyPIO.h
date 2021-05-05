@@ -648,6 +648,7 @@ void pioInit() {
 	// /dev/mem is a psuedo-driver for accessing memory in the Linux filesystem
 	if ((mem_fd = open("/dev/mem", O_RDWR|O_SYNC) ) < 0) {
 	      printf("can't open /dev/mem \n");
+	      printf("Intenta ejecutar utilizando sudo \n");
 	      exit(-1);
 	}
 
